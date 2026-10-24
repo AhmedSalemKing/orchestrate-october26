@@ -1,0 +1,7 @@
+﻿dataset/
+__pycache__/
+.venv/
+*.pyc
+*.db
+*.zip
+*.log
